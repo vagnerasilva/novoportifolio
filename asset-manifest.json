@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/novoportifolio/static/css/main.073c9b0a.css",
+    "main.js": "/novoportifolio/static/js/main.b5e8f817.js",
+    "static/js/787.b2001887.chunk.js": "/novoportifolio/static/js/787.b2001887.chunk.js",
+    "static/media/logo.svg": "/novoportifolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/novoportifolio/index.html",
+    "main.073c9b0a.css.map": "/novoportifolio/static/css/main.073c9b0a.css.map",
+    "main.b5e8f817.js.map": "/novoportifolio/static/js/main.b5e8f817.js.map",
+    "787.b2001887.chunk.js.map": "/novoportifolio/static/js/787.b2001887.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b5e8f817.js"
+  ]
+}
